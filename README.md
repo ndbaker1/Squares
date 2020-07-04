@@ -1,7 +1,5 @@
 # Squares
- High School Senior Project
- Developed by Nick Baker, Michael Madrigal, Jonathan Zhao
- Coded in Java
+ High School Senior Project. Developed by Nick Baker, Michael Madrigal, Jonathan Zhao. Coded in Java
 
 ## Setup
 From the `./classes` directory, run the following command to build a `.jar` executable
